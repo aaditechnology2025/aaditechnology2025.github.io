@@ -1,0 +1,1 @@
+import{j as e,B as a}from"./index-d5YOjbb6.js";import{e as t}from"./CardStyle-B9qFmFtz.js";import{A as o}from"./DotLegendStyled-B7Xptujc.js";const i=({text:r,color:s})=>e.jsxs(a,{sx:{display:"flex"},children:[e.jsx(o,{color:s}),e.jsxs(t,{children:[" ",r," "]}),e.jsx("br",{})]});export{i as D};

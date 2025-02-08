@@ -1,0 +1,1 @@
+import{ag as s,r as n,j as a,B as o,F as r}from"./index-d5YOjbb6.js";const x=()=>{const e=s(),{item:t}=e.state||{};return n.useEffect(()=>{},[t]),a.jsx(a.Fragment,{children:a.jsx(o,{sx:{px:2},children:a.jsx(r,{navLinks:[{title:"No NavMenu Page Name available.",path:""}],rightActions:a.jsx(a.Fragment,{})})})})};export{x as default};
